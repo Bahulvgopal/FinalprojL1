@@ -234,3 +234,12 @@ footer{
  margin-top: 1rem;
  margin-bottom: 2rem;
 }
+.quote{
+  font-family: 'Dancing Script', cursive;
+font-family: 'Libre Baskerville', serif;
+font-family: 'Oswald', sans-serif;
+font-family: 'Playfair Display', serif;
+font-family: 'PT Sans', sans-serif;
+font-family: 'Young Serif', serif;
+text-align: center ;
+  }
