@@ -1,0 +1,236 @@
+body{
+  margin: 0;
+  padding: 0;
+  background-color: rgba(76,74,74,255);
+}
+nav{
+  background-color: rgba(211, 211, 211, 0.8);
+}
+.navhead{
+  font-size: 1.5rem;
+  margin-left: 0.5rem;
+}
+
+.imgdiv{
+  height: 15rem;
+  margin-top: 3.4rem;
+}
+
+
+.n{
+  margin-top: 0.7rem;
+  text-align: center;
+  font-size: 2rem;
+  color: white;
+}
+ .s2{
+   background-color: white;
+   margin-top: 19rem;
+   padding-top: 2rem;
+   padding-bottom: 2rem;
+   
+ }
+ 
+ .ah{
+   text-align: center;
+   font-size: 2rem;
+   font-weight: bold;
+  
+ }
+ 
+ #more {
+   display: none;
+ }
+ 
+
+ 
+ #my {
+  height: 2rem;
+  background-color: rgba(76,74,74,255);
+  border: none;
+  color: white;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 12px;
+}
+
+ .polaroid {
+  width: 80%;
+  background-color: white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin-left: 2.3rem;
+  margin-right: 2.3rem;
+  margin-bottom: 3rem;
+  padding: 1rem;
+  border-radius: 10px;
+}
+.sk{
+  text-align: center;
+  margin-top: 1rem;
+  color: white;
+  font-size: 2rem;
+}
+.H{
+  margin-left: 3rem;
+  color: white;
+  padding: 1rem;
+  
+}
+.html{
+  margin-left: 3rem;
+  width: 18rem;
+  height: 0.7rem;
+  background: linear-gradient(to right,green 0%,green 90% , white 90% ,white 100%);
+  border-radius: 25px;
+}
+.css{
+  margin-left: 3rem;
+  width: 18rem;
+  height: 0.7rem;
+  background: linear-gradient(to right,green 0%,green 80% , white 80% ,white 100%);
+  border-radius: 25px;
+}
+.js{
+  margin-left: 3rem;
+  width: 18rem;
+  height: 0.7rem;
+  background: linear-gradient(to right,green 0%,green 73% , white 73% ,white 100%);
+  border-radius: 25px;
+}
+.python{
+  margin-left: 3rem;
+  width: 18rem;
+  height: 0.7rem;
+  background: linear-gradient(to right,green 0%,green 69% , white 60% ,white 100%);
+  border-radius: 25px;
+}
+.react{
+  margin-left: 3rem;
+  width: 18rem;
+  height: 0.7rem;
+  background: linear-gradient(to right,green 0%,green 48% , white 48% ,white 100%);
+  border-radius: 25px;
+}
+.ski{
+  margin: 2rem;
+  color: floralwhite;
+}
+
+.icons{
+ margin-left: 7.6rem;
+ margin-top: 1rem;
+ margin-bottom: 2rem;
+}
+
+.s4{
+  margin-top: 2rem;
+  background-color: white;
+  padding-bottom: 2rem;
+}
+.res{
+  text-align: center;
+  font-weight: bold;
+  font-size: 2rem;
+  padding-top: 1rem;
+ 
+}
+.btndiv{
+  margin-top: 1.6rem;
+}
+.rbtn{
+  border: none;
+  margin-left: 3rem;
+  border-radius: 4px;
+  padding: 0.3rem;
+  color: white;
+  font-weight: bold;
+}
+.btn2{
+  margin-left: 4.3rem;
+  background-color: deepskyblue;
+  margin-top: 3rem;
+}
+.btn1{
+  background-color: tomato;
+  margin-top: 1rem;
+  margin-left: 6rem;
+}
+
+.my-animation:hover {
+  animation-play-state: paused;
+  transform: scale(1.1);
+}
+.my-animation {
+  animation: scale 1.5s ease-in-out 1s ;
+  transition: 1s ease;
+}
+.go{
+  border: none;
+  background-color: lightsalmon;
+  color: white;
+  font-weight: bold;
+  margin-left: 7rem;
+  
+}
+.proj{
+  text-align: center;
+  font-weight: bold;
+  font-size: 2rem;
+  margin-bottom: 2rem;
+}
+
+.chead{
+  color: dimgrey;
+  font-size: 1.7rem;
+  text-align: center;
+  padding-top: 1rem;
+  text-shadow: 2px 2px black;
+}
+.gett{
+  font-size: 1rem;
+  margin: 2rem;
+}
+.loch{
+  font-size: 1.7rem;
+  margin-left: 1.8rem;
+ 
+}
+.spanh{
+padding-top: 1.9rem;
+font-size: 1rem;
+color: grey;
+}
+.qr{
+  margin-left: 3rem;
+  border: 2px solid black;
+  width: 10rem;
+}
+.mpbtn{
+  border: none;
+  background-color: grey;
+  color: white;
+  margin-left: 3rem;
+  border-radius: 2px;
+  margin-bottom: 3rem;
+}
+footer{
+    min-height: 100px;
+    background-color: #2d2b2b;
+    
+    text-align: center;
+    border-radius: 10px 10px 0 0;
+
+}
+.cprt{
+  
+  text-align: center;
+  color: grey;
+}
+.iconz{
+ margin-left: 1rem;
+ margin-top: 1rem;
+ margin-bottom: 2rem;
+}
